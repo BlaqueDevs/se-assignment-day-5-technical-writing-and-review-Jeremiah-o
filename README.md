@@ -16,9 +16,20 @@ Doing a pre-engagement research.
 Encourage them to ask questins and give feedback.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+Use a simple and clear language thet they can understand.
+Use diagrams and charts to help in making them understand your content.
+Show them how your content can help in solving a problem that they can relate with.
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+Using plain language is important because it ensures clarity, accessibility, and engagement for a wider audience including those who have less technical knowledge.
+
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+Simplifying "The device should be connected to the power source in order to function.” with “Connect the device to power.”
+"Start the process of printing the document" instead of "initiate the process of printing the document"
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+Using examples and visuals helps explain complex concepts by making the audience able to relate with the content and easier to understand using images.
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
